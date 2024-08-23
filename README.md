@@ -1,6 +1,8 @@
 # Tinyrama
 
-Tinyrama is a custom Unity project
+Tinyrama is an Unity project
+
+<!--Shields-->
 
 ![](https://img.shields.io/badge/Matteo%20Fontana-Project-black.svg?style=flat-square&logo=data:image/png;base64,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)
 ![GitHub](https://img.shields.io/github/license/matteofontana-app/Tinyrama?label=License&style=flat-square)
@@ -15,17 +17,23 @@ Current Version: **0.1.0**
 
 ## Table of Content
 
-  1. [MONOGRID Skill Test](#monogrid-skill-test)
-  2. [Overview](#overview)
-  3. [Requisiti Minimi](#requisiti-minimi)
-  4. [Requisiti Extra](#requisiti-extra)
-  5. [Altre indicazioni](#altre-indicazioni)
+  - [Tinyrama](#tinyrama)
+    - [Table of Content](#table-of-content) 
+    - [MONOGRID Skill Test](#monogrid-skill-test)
+      - [Overview](#overview)
+      - [Requisiti Minimi](#requisiti-minimi)
+      - [Requisiti Extra](#requisiti-extra)
+      - [Altre indicazioni](#altre-indicazioni)
+      - [Feature Aggiuntive](#feature-aggiuntive)
+    - [License](#license) 
 
 ***
 
-## MONOGRID Skill Test <a name="monogrid-skill-test"></a>
+<!--Skill Test-->
 
-### Overview <a name="overview"></a>
+## MONOGRID Skill Test
+
+### Overview
 
 Si invita il candidato a creare un progetto con Unity 2021.3.0f1 LTS. Creare una scena all'interno del progetto con le seguenti feature:
 
@@ -41,7 +49,7 @@ Si invita il candidato a creare un progetto con Unity 2021.3.0f1 LTS. Creare una
 - [x] Cambio colore dell'editor in fase di Play.  
   <sub>Nota: Viola.</sub>
 
-### Requisiti Minimi <a name="requisiti-minimi"></a>
+### Requisiti Minimi
 
 - [x] Script custom di movimento dell'avatar. L'avatar si deve muovere tramite i tasti WASD. Saltare è un bonus.
 - [x] La camera deve seguire l'avatar in modo adeguato. La rotazione della camera tramite drag è un bonus.
@@ -60,7 +68,7 @@ Si invita il candidato a creare un progetto con Unity 2021.3.0f1 LTS. Creare una
   - [x] Una lista di tracce che cambia l'audio di background.
 - [x] Prevedere un tasto di apertura/chiusura della UI.
 
-### Requisiti Extra <a name="requisiti-extra"></a>
+### Requisiti Extra
 
 - [x] Usare il New Input System per muovere l'avatar.
     <sub>Nota: Character controllabile tramite tastie, gamepad e controller PS4.</sub>
@@ -75,7 +83,7 @@ Si invita il candidato a creare un progetto con Unity 2021.3.0f1 LTS. Creare una
 - [ ] Bake delle luci è un bonus. Limite massimo di risoluzione 1024px per un massimo di una lightmap. Lightmap non direzionali. Gli oggetti dinamici dovrebbero essere illuminati da Light Probe. In caso di baking, sostituire lo skybox di default con uno a piacimento.
     <sub>Nota: Bake Luci non utilizzato. Skybox sostituito.</sub>
 
-### Altre indicazioni <a name="altre-indicazioni"></a>
+### Altre indicazioni
 
 - Il candidato ha a disposizione un template di partenza. L'utilizzo del template è facoltativo e non comporta una perdita di punti.
   <sub>Nota: Template non utilizzato.</sub>
@@ -83,8 +91,22 @@ Si invita il candidato a creare un progetto con Unity 2021.3.0f1 LTS. Creare una
 
 ### Feature Aggiuntive
 
+- Il design dell'esperienza è full responsive in qualsiasi dimensione, utile per l'uso in export per WebGL e per progetti multipiattaforma.
+- Tutti gli asset utilizzati ad eccezione delle tracce audio sono custom made.
+- Animazioni in editor Unity
+- Main Menu
+- Multiscene Experience con Transitions
+- Singleton use
+- Gestione dinamica degli Anchor
+- Respawn
+
+- Mancanti sono la logica di gioco per mancata tempistica
+- Per il completamento di alcuni script è stato necessario l'uso di ChatGPT 4o
+- Necessario approfondimento sulle State Machine e sull'architettura di Gioco
 
 <summary>
+
+<!--License-->
 
 ***
 
